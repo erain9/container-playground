@@ -75,3 +75,6 @@ fabric.properties
 
 # Ignore everything .idea
 .idea
+
+# Ignore binary files
+bin
